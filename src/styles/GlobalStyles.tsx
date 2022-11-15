@@ -9,7 +9,7 @@ const GlobalStyles = createGlobalStyle`
  
 * {
 
-  box-sizing : border-box;gi
+  box-sizing : border-box;
 }
 `;
 export default GlobalStyles;
